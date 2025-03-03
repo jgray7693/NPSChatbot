@@ -4,5 +4,6 @@ beautifulsoup4
 requests
 google-genai
 python-dotenv
+jinja2
 # Unused in current version of project
 # sentence-transformers
