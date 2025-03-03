@@ -3,5 +3,6 @@ uvicorn
 beautifulsoup4
 requests
 google-genai
-sentence-transformers
 python-dotenv
+# Unused in current version of project
+# sentence-transformers
