@@ -2,4 +2,4 @@ myenv/
 __pycache__
 .env
 *.json
-Logo.png
+static/logo.png
